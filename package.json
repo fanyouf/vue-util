@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fanyoufu/vue-util/issues"
   },
-  "homepage": "https://github.com/fanyoufu/vue-util#readme"
+  "homepage": "https://github.com/fanyoufu/vue-util#readme",
+  "dependencies": {
+    "xlsx": "^0.12.9"
+  }
 }
